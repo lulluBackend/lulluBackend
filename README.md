@@ -27,7 +27,7 @@ Desenvolvedor Backend focado em **Java** a caminho de ser um profissional **Full
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight&hide=php,html,css" height="130px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight" height="130px" />
 </p>
 
 ### 📩 Contato
