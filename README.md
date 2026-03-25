@@ -45,9 +45,7 @@ Embora meu foco seja mais no **Backend**, também me faço umas coisas no **Fron
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=lulluBackend&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight&hide=php)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight)
 
 ---
 
