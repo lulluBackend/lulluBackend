@@ -4,12 +4,13 @@
 
 # Olá, eu sou Lucas Campos 👋
 
-Desenvolvedor focado no ecossistema **Java** e **Spring Boot**, com experiência em bancos de dados relacionais e sistemas corporativos (Educação e Logística). Também atuo com **Node.js** e estou me aprofundando em **React**.
+Desenvolvedor Backend focado em **Java** a caminho de ser um profissional **Fullstack**. Atualmente construindo sistemas com banco de dados para algumas empresas.
 
 ---
 
 ### 🎓 Formação
-- **Jogos Digitais** (2025) | **Engenharia de Software** (Previsão: 2027)
+- **Jogos Digitais** (2025)
+- **Engenharia de Software** (Conclusão prevista: 2027)
 
 ### 🚀 Experiência
 - 💼 Desenvolvimento de APIs e Bancos de Dados para setores de Educação e Logística.
