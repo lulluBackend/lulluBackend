@@ -13,13 +13,13 @@
 ## Sobre Mim
 Desenvolvedor focado no ecossistema **Java** e **Spring Boot**, com experiência prática em bancos de dados relacionais e sistemas para gestão educacional. 
 
-Embora meu "porto seguro" seja o **Backend**, também me arrisco no **Front-end** e atualmente estou mergulhando nos estudos de **React** para construir aplicações completas e integradas. Também utilizo **Node.js** em projetos específicos quando a solução pede agilidade.
+Embora meu foco seja mais no **Backend**, também me faço umas coisas no **Front-end** e atualmente estou mergulhando nos estudos de **React** para construir aplicações completas e integradas. Também utilizo **Node.js** em projetos específicos quando a solução pede agilidade.
 
 ### 🚀 Formação e Certificações
 
 -   🎓 Graduado em **Jogos Digitais** (2025).
 -   🛠️ Graduando em **Engenharia de Software** (Previsão: 2027).
--   🏫 Desenvolvedor de sistemas de banco de dados para instituições de ensino.
+-   🏫 Atualmente atuando no desenvolvimento de sistemas de banco de dados e APIs personalizadas para algumas empresas.
 -   📜 Certificado em **Scrum Fundamentals** pela Scrum Study.
 
 ---
@@ -31,7 +31,7 @@ Embora meu "porto seguro" seja o **Backend**, também me arrisco no **Front-end*
 - ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) Node.js (Express / Prisma ORM)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) MySQL / PostgreSQL
 
-**Front-End (Em Evolução):**
+**Front-End**
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) **React** (Estudando)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) JavaScript / TypeScript
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML5 & CSS3
