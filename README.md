@@ -45,8 +45,9 @@ Embora meu "porto seguro" seja o **Backend**, também me arrisco no **Front-end*
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=lulluBackend&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=lulluBackend&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lulluBackend&layout=compact&theme=tokyonight&hide=php,html,css)
 
 ---
 
